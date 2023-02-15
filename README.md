@@ -67,7 +67,7 @@ $ pip install -r requirements.txt
   
 ### Demo Project
 
-[Demo.ipynb](demo.ipynb) is an example of how to apply the DEGAN framework with your own time series datasets.
+[mpad_demo.ipynb](mpad_demo.ipynb) is an example of how to apply the DEGAN framework with your own time series datasets.
 
 To test and use the framework, you may get a local copy and run the example steps in the demo file.
 
