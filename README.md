@@ -45,7 +45,7 @@ The framework contains two main components: Matrix Profiling and Anomaly Detecti
 
 The MPAD centers around the Matrix Profile
 
-<img src="https://github.com/Test1122th/test2/blob/main/imgs/matrix_profile_score.png" width="800" height="100" />
+<img src="https://github.com/Test1122th/test2/blob/main/imgs/matrix_profile_score.png" width="800" height="180" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
