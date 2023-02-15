@@ -39,7 +39,7 @@ Users of this repo can conduct matrix profiling through the MPAD framework for d
 The framework contains two main components: Matrix Profiling and Anomaly Detection.
 
 
-<img src="https://github.com/Test1122th/test2/blob/main/imgs/MPAD Framework.png" width="800" height="400" /> 
+<img src="https://github.com/Test1122th/test2/blob/main/imgs/MPAD Framework.png" width="800" height="200" /> 
 
 ### Matrix Profile
 
