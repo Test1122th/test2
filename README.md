@@ -94,10 +94,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) - jazizade@vt.edu
 - Associate Professor at Virginia Tech, Department of Civil and Environmental Engineering, INFORM Lab
 
-[Yueyan Gu](https://yueyangu.github.io/aboutme/) - yueyangu@vt.edu
-- PhD student at Virginia Tech, Department of Civil and Environmental Engineering, INFORM Lab
-
-Tianzhi He - tianzhi@vt.edu
+[Tianzhi He](https://scholar.google.com/citations?user=0jbujB8AAAAJ&hl=en) - tianzhi@vt.edu
 - PhD student at Virginia Tech, Department of Civil and Environmental Engineering, INFORM Lab
 
 
