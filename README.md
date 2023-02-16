@@ -34,18 +34,25 @@ Users of this repo can conduct matrix profiling through the MPAD framework for d
 ## Introduction
 **MPAD** is a Matrix Profiling-based anomaly detection framework. 
 
+Users of this repo can conduct training and configuring Matrix Profiles through the MPAD framework for detecting anomalies on new time series.
+
 ### Framework  
 
 The framework contains two main components: Matrix Profiling and Anomaly Detection.
+
 
 
 <img src="https://github.com/Test1122th/test2/blob/main/imgs/MPAD Framework.png" width="800" height="250" /> 
 
 ### Matrix Profile
 
-The MPAD centers around the Matrix Profile
+The MPAD centers around the Matrix Profile. Figure below shows an example of matrix profile quantification for one time series – i.e., a self-similarity joint. As this example shows, the MP indices could be leveraged to identify repeated patterns (motifs) versus abnormalities (novelties). Using this approach as the baseline, the MP-based methodologies are adopted in the MPAD framework that detects anomalies and quantify their severities.
 
-<img src="https://github.com/Test1122th/test2/blob/main/imgs/matrix_profile_score.png" width="800" height="140" />
+a benchmark time series (𝑇𝑆𝐵), which does not have any anomalies, is compared against an evaluation time series (𝑇𝑆𝐸).
+
+
+
+<img src="https://github.com/Test1122th/test2/blob/main/imgs/process.png" width="1000" height="650" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
