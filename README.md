@@ -52,7 +52,7 @@ a benchmark time series (𝑇𝑆𝐵), which does not have any anomalies, is co
 
 
 
-<img src="https://github.com/Test1122th/test2/blob/main/imgs/process.png" width="1000" height="650" />
+<img src="https://github.com/Test1122th/test2/blob/main/imgs/mp_flow.png" width="550" height="650" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
